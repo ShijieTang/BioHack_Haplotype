@@ -4,7 +4,7 @@
 
 **Advisor:** Ben Busby
 
-## Project Description GitHub**
+## Project Description GitHub
 
 Google document: https://docs.google.com/document/d/1khYK22Mcprc-Kxlw6h2K9sU7ytjht80P/edit
 
